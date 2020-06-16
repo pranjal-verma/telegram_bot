@@ -1,0 +1,42 @@
+{
+  "status": {
+    "timestamp": "2020-06-15T21:23:06.821Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 18,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "BTC": {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "slug": "bitcoin",
+      "num_market_pairs": 8353,
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "tags": [
+        "mineable"
+      ],
+      "max_supply": 21000000,
+      "circulating_supply": 18405712,
+      "total_supply": 18405712,
+      "is_active": 1,
+      "platform": null,
+      "cmc_rank": 1,
+      "is_fiat": 0,
+      "last_updated": "2020-06-15T21:22:25.000Z",
+      "quote": {
+        "INR": {
+          "price": 720480.4782283845,
+          "volume_24h": 2026738805786.7205,
+          "percent_change_1h": 0.6422578,
+          "percent_change_24h": 0.99550078,
+          "percent_change_7d": -1.68309349,
+          "market_cap": 13260956183893.918,
+          "last_updated": "2020-06-15T21:22:00.000Z"
+        }
+      }
+    }
+  }
+}
